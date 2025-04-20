@@ -11,7 +11,20 @@ Fitur Utama Aplikasi
 -  State management menggunakan React Context API untuk mengelola status aplikasi secara global.
 
 -Tampilan halaman utama
+![Preview](./Gambar/gambar1.png)
 ![Preview](./Gambar/gambar2.png)
+![Preview](./Gambar/gambar3.png)
+![Preview](./Gambar/gambar4.png)
+![Preview](./Gambar/gambar5.png)
 
 
+Teknologi yang Digunakan
+React JS: Untuk membangun antarmuka pengguna.
 
+React Router DOM: Untuk navigasi antar halaman.
+
+React Context API: Untuk pengelolaan state global.
+
+localStorage: Untuk menyimpan data buku secara permanen di browser.
+
+CSS: Untuk styling dan tata letak aplikasi.
